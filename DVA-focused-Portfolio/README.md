@@ -1,17 +1,12 @@
-# DVA-Focused Portfolio
+## Portfolios
 
-Use this folder as a reminder for each student to convert the capstone into a portfolio-ready case study.
+Add each student's public portfolio link below. Please edit this file and add a single line per person in the format: `Name — https://your-portfolio.example/`.
 
-## Portfolio Case Study Should Cover
+- Antik Mondal — https://antik1108.github.io/DVA_fake/
+- [Add your name] — [your portfolio link]
 
-- Problem statement and stakeholder context
-- Dataset source and scope
-- Cleaning and transformation summary
-- KPI framework
-- 3-5 key insights
-- Tableau dashboard screenshots and link
-- Recommendations and expected impact
+Example:
 
-## Suggested Deliverable
+- Jane Doe — https://janedoe.dev/
 
-Add a short write-up in your personal portfolio site, Notion page, or PDF case study with a link back to this repository.
+Keep links public so reviewers can view your case studies and dashboards.
