@@ -15,4 +15,3 @@ Use this folder as a reminder for each student to convert the capstone into a po
 ## Suggested Deliverable
 
 Add a short write-up in your personal portfolio site, Notion page, or PDF case study with a link back to this repository.
-Aadit Vachher portfolio--> https://aadit-vachher.github.io/portfolio/
